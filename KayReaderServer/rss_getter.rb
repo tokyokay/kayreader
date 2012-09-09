@@ -41,7 +41,7 @@ module RssAccess
   require 'active_record'
   ActiveRecord::Base.establish_connection(
     :adapter => 'sqlite3',
-    :database => '/users/dev/Documents/eclipseSpace/keita/KayReader/db/development.sqlite3',
+    :database => 'db/development.sqlite3',
     :timeout => 3000)
   class Detail < ActiveRecord::Base
   end
@@ -74,7 +74,7 @@ end
 # class RssGetMain
   #Thread作成後はInitでDbアクセサ作っておく
   include RssAccess
-  file    = '/users/dev/Documents/eclipseSpace/keita/KayReader/db/development.sqlite3'
+  file    = 'db/development.sqlite3'
   sql_acc = SqlAccess.new(file)
   sql_acc.read_data("sites","id,rssurl")
   sql_acc.read_data("details","link")
