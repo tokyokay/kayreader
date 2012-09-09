@@ -1,0 +1,21 @@
+<h1>Listing details</h1>
+
+
+<% @details.each do |detail| %>
+
+<table width="100%">
+ 	<tr>
+ 		<td><h3><%= link_to detail.title, detail.link, { :target => '_new' } %></h3></td>
+ 	</tr>
+ 	<tr>
+ 		<td><%= raw detail.message %></td>
+ 	</tr>
+ 	<tr>
+ 		<td align="right">
+ 			<%= detail.created_at %>
+ 		</td>
+ 	</tr>
+</table>
+<hr />
+
+<% end %>

@@ -1,0 +1,28 @@
+#coding: utf-8
+one:
+  id: 7
+  name: 政治
+
+two:
+  id: 6
+  name: VIP
+
+three:
+  id: 3
+  name: その他ニュース
+
+four:
+  id: 4
+  name: ライブドア
+
+five:
+  id: 5
+  name: Mac
+
+six:
+  id: 1
+  name: ニュース速報
+
+seven:
+  id: 2
+  name: 金融ニュース

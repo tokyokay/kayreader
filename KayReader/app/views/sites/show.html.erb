@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Site name:</b>
+  <%= @site.site_name %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @site.categories[0].name %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @site.url %>
+</p>
+
+<p>
+	<b>Rss Url:</b>
+	<%= @site.rssurl %>
+</p>
+
+
+<%= link_to 'Edit', edit_site_path(@site) %> |
+<%= link_to 'Back', sites_path %>

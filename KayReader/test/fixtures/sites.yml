@@ -1,0 +1,444 @@
+
+row_1:
+  id: 1
+  site_name: 2NN2ちゃんねるニュース速報＋ナビ
+  url: http://www.2nn.jp/
+  rssurl: http://www.2nn.jp/rss/index.rdf
+
+row_2:
+  id: 2
+  site_name: GIGAZINE
+  url: http://gigazine.net/
+  rssurl: http://www.pheedo.jp/f/gigazine_2
+
+row_3:
+  id: 3
+  site_name: ギズモード・ジャパン
+  url: http://www.gizmodo.jp/
+  rssurl: http://feeds.gizmodo.jp/rss/gizmodo/index.xml
+
+row_4:
+  id: 4
+  site_name: FOREXPRESS
+  url: http://forexpress.com/contents/
+  rssurl: http://feeds.feedburner.jp/forexpress
+
+row_5:
+  id: 5
+  site_name: 「証券」ニュースリリース
+  url: http://www.news2u.net/
+  rssurl: http://www.news2u.net/feed/industries/industry/8/25
+
+row_6:
+  id: 6
+  site_name: 企業ニュース-SankeiBiz（サンケイビズ）：総合経済情報サイト
+  url: http://www.sankeibiz.jp/business/business.htm
+  rssurl: http://www.sankeibiz.jp/rss/news/business.xml
+
+row_7:
+  id: 7
+  site_name: Publickey
+  url: http://www.publickey1.jp/
+  rssurl: http://www.publickey1.jp/atom.xml
+
+row_8:
+  id: 8
+  site_name: 倒産情報
+  url: http://pipes.yahoo.com/pipes/pipe.info?_id=wsxv2__q3RGLXjodBRNMsA
+  rssurl: http://pipes.yahoo.com/pipes/pipe.run?_id=wsxv2__q3RGLXjodBRNMsA&_render=rss
+
+row_9:
+  id: 9
+  site_name: 日経インターネット
+  url: http://www.nikkei.com/news/category/at=DGXZZO0195590008122009000000
+  rssurl: http://www.zou3.net/php/rss/nikkei2rss.php?head=internet
+
+row_10:
+  id: 10
+  site_name: 日経企業
+  url: http://www.nikkei.com/news/category/bn=61;at=DGXZZO0195165008122009000000
+  rssurl: http://www.zou3.net/php/rss/nikkei2rss.php?head=sangyo
+
+row_11:
+  id: 11
+  site_name: 日経プレスリリース
+  url: http://release.nikkei.co.jp/isclassList.cfm?lindID=3
+  rssurl: http://rssc.dokoda.jp/r/0f45e800eaa78cb8d2df70747589d303/http/release.nikkei.co.jp/isclassList.cfm?lindID=3
+
+row_12:
+  id: 12
+  site_name: 適時開示情報
+  url: http://g2s.skr.jp/
+  rssurl: http://g2s.skr.jp/rss/
+
+row_13:
+  id: 13
+  site_name: ＠Press最新のプレスリリース一覧
+  url: http://www.atpress.ne.jp
+  rssurl: http://www.atpress.ne.jp/rss/index.rdf
+
+row_14:
+  id: 14
+  site_name: lTライフハック
+  url: http://news.livedoor.com/category/vender/ithack/
+  rssurl: http://news.livedoor.com/rss/article/vender/ithack
+
+row_15:
+  id: 15
+  site_name: エンタメトピックス
+  url: http://news.livedoor.com
+  rssurl: http://news.livedoor.com/topics/rss/ent.xml
+
+row_16:
+  id: 16
+  site_name: 主要トピックス
+  url: http://news.livedoor.com
+  rssurl: http://news.livedoor.com/topics/rss.xml
+
+row_17:
+  id: 17
+  site_name: 国内トピックス
+  url: http://news.livedoor.com
+  rssurl: http://news.livedoor.com/topics/rss/dom.xml
+
+row_18:
+  id: 18
+  site_name: 経済トピックス
+  url: http://news.livedoor.com
+  rssurl: http://news.livedoor.com/topics/rss/eco.xml
+
+row_19:
+  id: 19
+  site_name: ＩＴトピックス
+  url: http://news.livedoor.com
+  rssurl: http://news.livedoor.com/topics/rss/com.xml
+
+row_20:
+  id: 20
+  site_name: apptoi
+  url: http://www.apptoiphone.com/
+  rssurl: http://www.apptoiphone.com/feeds/posts/default?alt=rss
+
+row_21:
+  id: 21
+  site_name: dps
+  url: http://dpsmac.com
+  rssurl: http://feedproxy.google.com/Dps
+
+row_22:
+  id: 22
+  site_name: Firefoxlzyc
+  url: http://fox.lazycat.info
+  rssurl: http://fox.lazycat.info/feed
+
+row_23:
+  id: 23
+  site_name: iPhone研究室（iPadもね）
+  url: http://iphone-lab.net
+  rssurl: http://iphone-lab.net/feed
+
+row_24:
+  id: 24
+  site_name: iPhone女史
+  url: http://www.iphone-girl.jp
+  rssurl: http://www.iphone-girl.jp/feed/
+
+row_25:
+  id: 25
+  site_name: iPodLOVE
+  url: http://ipod.item-get.com/
+  rssurl: http://feeds.feedburner.com/IpodLove
+
+row_26:
+  id: 26
+  site_name: iPodtouchラボ
+  url: http://ipodtouchlab.com/
+  rssurl: http://ipodtouchlab.com/rss.xml
+
+row_27:
+  id: 27
+  site_name: iPoday
+  url: http://www.ipoday.net/
+  rssurl: http://feeds.ipoday.com/ipoday/
+
+row_28:
+  id: 28
+  site_name: J.S.Mach
+  url: http://kkbizmac.blogspot.com/
+  rssurl: http://kkbizmac.blogspot.com/feeds/posts/default?alt=rss
+
+row_29:
+  id: 29
+  site_name: MacBookの小部屋
+  url: http://dbarg2.blog102.fc2.com/
+  rssurl: http://dbarg2.blog102.fc2.com/?xml
+
+row_30:
+  id: 30
+  site_name: Macの手書き説明書
+  url: http://veadardiary.blog29.fc2.com/
+  rssurl: http://veadardiary.blog29.fc2.com/?xml
+
+row_31:
+  id: 31
+  site_name: MozillaRe-Mix
+  url: http://mozilla-remix.seesaa.net/
+  rssurl: http://mozilla-remix.seesaa.net/index.rdf
+
+row_32:
+  id: 32
+  site_name: ppmweb
+  url: http://ppmweb.lolipop.jp
+  rssurl: http://feeds.feedburner.jp/ppmweb
+
+row_33:
+  id: 33
+  site_name: soundscapeout
+  url: http://d.hatena.ne.jp/tanemori/
+  rssurl: http://d.hatena.ne.jp/tanemori/rss
+
+row_34:
+  id: 34
+  site_name: りんご大好き
+  url: http://web.me.com/afternoon_apple_tea/Site/Blog/Blog.html
+  rssurl: http://web.me.com/afternoon_apple_tea/Site/Blog/rss.xml
+
+row_35:
+  id: 35
+  site_name: BIPブログ
+  url: http://bipblog.com/
+  rssurl: http://bipblog.com/index.rdf
+
+row_36:
+  id: 36
+  site_name: VIPPERな俺
+  url: http://blog.livedoor.jp/news23vip/
+  rssurl: http://blog.livedoor.jp/news23vip/index.rdf
+
+row_37:
+  id: 37
+  site_name: V速ニュップ
+  url: http://blog.livedoor.jp/ringotomomin/
+  rssurl: http://blog.livedoor.jp/ringotomomin/index.rdf
+
+row_38:
+  id: 38
+  site_name: ぁゃιぃ(*ﾟーﾟ)NEWS2nd
+  url: http://ayacnews2nd.com/
+  rssurl: http://ayacnews2nd.com/index.rdf
+
+row_39:
+  id: 39
+  site_name: あじゃじゃしたー
+  url: http://blog.livedoor.jp/chihhylove/
+  rssurl: http://blog.livedoor.jp/chihhylove/index.rdf
+
+row_40:
+  id: 40
+  site_name: たま速報
+  url: http://tamasoku.blog35.fc2.com/
+  rssurl: http://tamasoku.blog35.fc2.com/?xml
+
+row_41:
+  id: 41
+  site_name: のとーりあす
+  url: http://notorious2.blog121.fc2.com/
+  rssurl: http://feeds.feedburner.com/jp/notorious
+
+row_42:
+  id: 42
+  site_name: ぶる速-VIP
+  url: http://burusoku-vip.com/
+  rssurl: http://burusoku-vip.com/index.rdf
+
+row_43:
+  id: 43
+  site_name: ゆめみGAZINEサロン
+  url: http://blog.livedoor.jp/yumemigachi_salon/
+  rssurl: http://blog.livedoor.jp/yumemigachi_salon/index.rdf
+
+row_44:
+  id: 44
+  site_name: アルファルファモザイク
+  url: http://alfalfalfa.com/
+  rssurl: http://alfalfalfa.com/index.rdf
+
+row_45:
+  id: 45
+  site_name: カゼタカ2ブログch
+  url: http://kazetaka.com/
+  rssurl: http://blog.livedoor.jp/kaibu222/index.rdf
+
+row_46:
+  id: 46
+  site_name: カナ速mini
+  url: http://onlinegameinside.blog19.fc2.com/
+  rssurl: http://onlinegameinside.blog19.fc2.com/?xml
+
+row_47:
+  id: 47
+  site_name: ゴールデンタイムズ
+  url: http://blog.livedoor.jp/goldennews/
+  rssurl: http://blog.livedoor.jp/goldennews/index.rdf
+
+row_48:
+  id: 48
+  site_name: ニュー速VIPブログ(`･ω･)
+  url: http://blog.livedoor.jp/insidears/
+  rssurl: http://blog.livedoor.jp/insidears/index.rdf
+
+row_49:
+  id: 49
+  site_name: ハムスター速報
+  url: http://hamusoku.com/
+  rssurl: http://hamusoku.com/index.rdf
+
+row_50:
+  id: 50
+  site_name: ムズ痒いブログ
+  url: http://blog.livedoor.jp/deal_with0603/
+  rssurl: http://blog.livedoor.jp/deal_with0603/index.rdf
+
+row_51:
+  id: 51
+  site_name: ヴィブロ
+  url: http://gasoku.livedoor.biz/
+  rssurl: http://gasoku.livedoor.biz/index.rdf
+
+row_52:
+  id: 52
+  site_name: 人生VIP職人ブログ
+  url: http://workingnews.blog117.fc2.com/
+  rssurl: http://feeds.feedburner.jp/workingnews
+
+row_53:
+  id: 53
+  site_name: 妹はVIPPER
+  url: http://vipsister23.com/
+  rssurl: http://blog.livedoor.jp/vipsister23/atom.xml
+
+row_54:
+  id: 54
+  site_name: 日刊スレッドガイド
+  url: http://guideline.livedoor.biz/
+  rssurl: http://guideline.livedoor.biz/index.rdf
+
+row_55:
+  id: 55
+  site_name: 暇人＼(＾o＾)／速報
+  url: http://himasoku.com/
+  rssurl: http://blog.livedoor.jp/himasoku123/index.rdf
+
+row_56:
+  id: 56
+  site_name: 無題のドキュメント
+  url: http://mudainodqnment.ldblog.jp/
+  rssurl: http://mudainodqnment.ldblog.jp/index.rdf
+
+row_57:
+  id: 57
+  site_name: 痛いニュース(ﾉ∀`)
+  url: http://blog.livedoor.jp/dqnplus/
+  rssurl: http://blog.livedoor.jp/dqnplus/index.rdf
+
+row_58:
+  id: 58
+  site_name: 神爆笑.com
+  url: http://kamibakusho.com/
+  rssurl: http://kamibakusho.com/index.rdf
+
+row_59:
+  id: 59
+  site_name: Doronpaの独り言
+  url: http://ameblo.jp/doronpa01/
+  rssurl: http://feedblog.ameba.jp/rss/ameblo/doronpa01/rss20.xml
+
+row_60:
+  id: 60
+  site_name: KNNToday
+  url: http://knnjapan.exblog.jp
+  rssurl: http://rss.exblog.jp/rss/exblog/knnjapan/index.xml
+
+row_61:
+  id: 61
+  site_name: OVERDOPE<β版>
+  url: http://overdope2005.blog74.fc2.com/
+  rssurl: http://overdope2005.blog74.fc2.com/?xml
+
+row_62:
+  id: 62
+  site_name: SamuraiAri
+  url: http://blog.livedoor.jp/samuraiari/
+  rssurl: http://blog.livedoor.jp/samuraiari/index.rdf
+
+row_63:
+  id: 63
+  site_name: ぼやきくっくり
+  url: http://kukkuri.jpn.org/boyakikukkuri2/
+  rssurl: http://kukkuri.jpn.org/boyakikukkuri2/log/index.rdf
+
+row_64:
+  id: 64
+  site_name: よーめんブログ
+  url: http://youmenipip.exblog.jp
+  rssurl: http://rss.exblog.jp/rss/exblog/youmenipip/index.xml
+
+row_65:
+  id: 65
+  site_name: 二階堂ドットコム
+  url: http://www.nikaidou.com
+  rssurl: http://www.nikaidou.com/feed
+
+row_66:
+  id: 66
+  site_name: 千風の会
+  url: http://senpu.exblog.jp
+  rssurl: http://rss.exblog.jp/rss/exblog/senpu/index.xml
+
+row_67:
+  id: 67
+  site_name: 反日勢力を斬るイザ！
+  url: http://ponko.iza.ne.jp/blog/
+  rssurl: http://ponko.iza.ne.jp/blog/PplBgRSS.rdf
+
+row_68:
+  id: 68
+  site_name: 反日議員を落選させる会
+  url: http://blog.livedoor.jp/hanrakukai/
+  rssurl: http://blog.livedoor.jp/hanrakukai/index.rdf
+
+row_69:
+  id: 69
+  site_name: 日刊中央通信
+  url: http://blog.livedoor.jp/central_press/
+  rssurl: http://blog.livedoor.jp/central_press/index.rdf
+
+row_70:
+  id: 70
+  site_name: 日本よ何処へ
+  url: http://blog.livedoor.jp/the_radical_right/
+  rssurl: http://blog.livedoor.jp/the_radical_right/index.rdf
+
+row_71:
+  id: 71
+  site_name: 東アジア黙示録
+  url: http://dogma.at.webry.info/
+  rssurl: http://dogma.at.webry.info/rss/index.rdf
+
+row_72:
+  id: 72
+  site_name: 花うさぎ
+  url: http://hanausagi.iza.ne.jp/blog/
+  rssurl: http://hanausagi.iza.ne.jp/blog/PplBgRSS.rdf
+
+row_73:
+  id: 73
+  site_name: "行政書士、社労士のぼやき"
+  url: http://seaside-office.at.webry.info/
+  rssurl: http://seaside-office.at.webry.info/rss/index.rdf
+
+row_74:
+  id: 74
+  site_name: 阿比留
+  url: http://abirur.iza.ne.jp/blog/
+  rssurl: http://abirur.iza.ne.jp/blog/PplBgRSS.rdf
