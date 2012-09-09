@@ -12,11 +12,11 @@ end
 
 class SqlAccess
   require 'sqlite3'
-  require 'dalli'
+  require 'memcache'
   attr_reader :sites, :details
   def initialize(file)
     @db = SQLite3::Database.new(file) unless file.nil?
-    @mm = Dalli::Client.new('localhost:11211')
+    @mm = MemCache.new('localhost:11212') #Dalli can't access KT
   end
   define_method :read_data do |table,cols|
     mem_key = "#{table}_#{cols.gsub(',','_')}"
@@ -38,13 +38,6 @@ end
 module RssAccess
   require 'rss'
   require 'rubygems'
-  require 'active_record'
-  ActiveRecord::Base.establish_connection(
-    :adapter => 'sqlite3',
-    :database => 'db/development.sqlite3',
-    :timeout => 3000)
-  class Detail < ActiveRecord::Base
-  end
   define_method :details_renew do |sites_array,now_details|
     new_details = {}
     sites_array.each do |_sid,_rss|
@@ -73,8 +66,14 @@ end
 
 # class RssGetMain
   #Thread作成後はInitでDbアクセサ作っておく
+  require 'active_record'
   include RssAccess
-  file    = 'db/development.sqlite3'
+  file = '/users/dev/git/KayReader/KayReader/db/development.sqlite3'
+  ActiveRecord::Base.establish_connection(
+    :adapter => 'sqlite3',
+    :database => file,
+    :timeout => 3000)
+  class Detail < ActiveRecord::Base; end
   sql_acc = SqlAccess.new(file)
   sql_acc.read_data("sites","id,rssurl")
   sql_acc.read_data("details","link")
