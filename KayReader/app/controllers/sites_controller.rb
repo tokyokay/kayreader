@@ -1,6 +1,7 @@
 class SitesController < ApplicationController
   # GET /sites
   # GET /sites.json
+  class Category < ActiveRecord::Base; end
   def index
     @sites = Site.all
 
@@ -25,6 +26,7 @@ class SitesController < ApplicationController
   # GET /sites/new.json
   def new
     @site = Site.new
+    @categories = Category.select('DISTINCT name')
 
     respond_to do |format|
       format.html # new.html.erb

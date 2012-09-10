@@ -1,5 +1,6 @@
 #coding: utf-8
-<%= image_tag("logo.jpeg",:id => 'logo_img',:size => "260")%>
+<%= image_tag("logo.jpeg",:id => 'logo_img',:size => "240x130")%>
+<%= link_to '新規サイト追加', new_site_path, {:target => 'detailsFrame' }, :remote => true %>
 <table>
 <% @categories.each do |category| %>
   <tr>
@@ -28,5 +29,3 @@
 </table>
 
 <br />
-
-<%= link_to 'New Category', new_category_path %>

@@ -2,7 +2,7 @@ class DetailsController < ApplicationController
   # GET /details
   # GET /details.json
   def index
-    @details = Detail.find_all_by_site_id(params[:site_id])
+    @details = Detail.where(:site_id => params[:site_id]).order('created_at DESC')
 
     respond_to do |format|
       format.html # index.html.erb
